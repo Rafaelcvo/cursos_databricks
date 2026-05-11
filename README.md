@@ -260,7 +260,7 @@ Streaming + CDC
 * Autorizações
 * Antifraude
 * Chargeback
-
+* Fonte: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 # Estrutura do Projeto
