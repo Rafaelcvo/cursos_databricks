@@ -78,6 +78,3 @@ Sinta-se à vontade para abrir uma issue ou pull request com novas sugestões de
 
 ---
 
-## 📄 Licença
-
-Este repositório está licenciado sob a [Licença MIT](LICENSE).
